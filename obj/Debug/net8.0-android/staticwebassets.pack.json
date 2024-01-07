@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Islington\\3rd Year\\Application Development\\Projects\\hawa\\hawa\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\hawa.styles.css",
+      "PackagePath": "staticwebassets\\hawa.styles.css"
+    },
+    {
+      "Id": "D:\\Islington\\3rd Year\\Application Development\\Projects\\hawa\\hawa\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Islington\\3rd Year\\Application Development\\Projects\\hawa\\hawa\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Islington\\3rd Year\\Application Development\\Projects\\hawa\\hawa\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Islington\\3rd Year\\Application Development\\Projects\\hawa\\hawa\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Islington\\3rd Year\\Application Development\\Projects\\hawa\\hawa\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.hawa.props",
+      "PackagePath": "build\\hawa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.hawa.props",
+      "PackagePath": "buildMultiTargeting\\hawa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.hawa.props",
+      "PackagePath": "buildTransitive\\hawa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.hawa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
